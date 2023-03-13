@@ -1,3 +1,5 @@
 Buy:
 1. Apples
 2. Oranges
+3. Banana
+4. Kiwi
